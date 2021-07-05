@@ -15,7 +15,7 @@ sidebar:
     email: andrea.selva@outlook.it
     phone: 00393401387188
     website:  #do not add http://
-    linkedin: alandoe
+    linkedin: andrea s
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -25,20 +25,17 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Italian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Sustainable Development
         link:
 
-      - item: Snowboarding
+      - item: Social Innovation
         link:
 
       - item: Cooking
@@ -47,12 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I consider myself a multi-faceted and proactive lifelong learner at the intersection of data, sustainability and innovation. For study and work purposes, I became passionate about Sustainable Development & the Agenda 2030.
 education:
     - degree: MSc in Computer Science
       university: University of London
