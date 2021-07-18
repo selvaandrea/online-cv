@@ -13,11 +13,11 @@ sidebar:
 
     # Sidebar links
     email: andrea.selva@outlook.it
-    phone: 0039 3401387188
+    phone: +39 3401387188
     website: work in progress #do not add http://
-    linkedin: andreaselva
-    xing: alandoe
-    github: sharu725
+    linkedin: andrea-s-091531160
+    xing:
+    github: selvaandrea
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -34,16 +34,16 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Social innovation & Impact Measurement
+      - item: Social innovation
         link:
 
-      - item: Sustainable Development & Agenda 2030
+      - item: Sustainable Development
         link:
 
       - item: Open data & open government
         link:
        
-      - item: Civic hacking & activism
+      - item: activism
         link:
 
 career-profile:
@@ -54,8 +54,8 @@ career-profile:
       [download this free resume/CV template here]().
       
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Executive Master in Circular Corporate Responsibility
+      university: Jobform
       time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
