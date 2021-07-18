@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Andrea Selva
     tagline: Project Officer, data enthusiast, and something like a multipotential
-    avatar: profile.png,jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: andrea.selva@outlook.it
