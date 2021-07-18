@@ -34,24 +34,25 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Social innovation & Impact Measurement
         link:
 
-      - item: Snowboarding
+      - item: Sustainable Development & Agenda 2030
         link:
 
-      - item: Cooking
+      - item: Open data & open government
+        link:
+       
+      - item: Civic hacking & activism
         link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary:
+      I consider myself a multi-faceted and proactive lifelong learner at the intersection of data, sustainability and innovation.  For study and work purposes, I became passionate about Sustainable Development & the Agenda 2030. 
+      My current challenge is to join a sustainability team, where to translate the skills developed in one of the main Italian no profit grant makers
+      [download this free resume/CV template here]().
+      
 education:
     - degree: MSc in Computer Science
       university: University of London
